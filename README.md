@@ -42,5 +42,4 @@ Server Address: skante.aternos.me:53476
 
 ```server should be on always 24/7/365```
 
-Nice 
-
+![Nice](MfKimJong.jpg)
