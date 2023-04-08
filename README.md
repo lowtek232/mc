@@ -12,7 +12,7 @@ Once done open minecraft and select forge 1.19.3 44.1.0 and hit play then you ca
 
 ## 2. Mods
 
-No mods on the server yet, will add the lights mods back when 1.19.3 version comes out
+No mods on the server yet, will add the lights mods back when 1.19.4 version comes out
 
 ## 3. Optifine (Shaders)
 
@@ -36,10 +36,11 @@ Choose BSL Shaders
 
 ## 4. Play
 - Open MC Launcher
-- Select Forge 1.19.3 44.1.0 For the version
+- Select Forge 1.19.4 For the version
 
 Server Address: skante.aternos.me:53476  
 
 ```server should be on always 24/7/365```
 
 ![Nice](MfKimJong.jpg)
+Nice.
