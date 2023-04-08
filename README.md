@@ -4,7 +4,7 @@
 
 ## 1. Download Forge
 
-Download Link: https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.3-44.1.0/forge-1.19.3-44.1.0-installer.jar
+Download Link: https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.4-45.0.43/forge-1.19.4-45.0.43-installer.jar
 
 Instructions  
 Open the file and choose install client  
@@ -17,7 +17,7 @@ No mods on the server yet, will add the lights mods back when 1.19.3 version com
 ## 3. Optifine (Shaders)
 
 Download Link
-https://optifine.net/adloadx?f=OptiFine_1.19.3_HD_U_I3.jar&x=6318
+https://optifine.net/adloadx?f=OptiFine_1.19.4_HD_U_I4.jar&x=4153
 Instructions
 
 Click Windows Button and R at same time 
