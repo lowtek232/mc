@@ -7,7 +7,7 @@
 Download Link: https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.4-45.0.43/forge-1.19.4-45.0.43-installer.jar
 
 Instructions  
-Open the file and choose install client  
+Open the file and choose install client and click ok
 Once done open minecraft and select forge 1.19.3 44.1.0 and hit play then you can close it
 
 ## 2. Mods
@@ -41,3 +41,6 @@ Choose BSL Shaders
 Server Address: skante.aternos.me:53476  
 
 ```server should be on always 24/7/365```
+
+Nice 
+
