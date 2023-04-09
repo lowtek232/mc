@@ -6,23 +6,24 @@ https://skmedix.pl/link/2da173c1b6f53f10b061bb7eff3f0100
 
 ## 1. Download Forge
 
-Download Link: https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.19-41.1.0/forge-1.19-41.1.0-installer.jar  
+Download Link:  
+https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.0/forge-1.19.2-43.2.0-installer.jar  
 
 Instructions  
 Open the file and choose install client and click ok
-Once done open minecraft and select forge 1.19.3 44.1.0 and hit play then you can close it
+Once done open minecraft and select forge 1.19.2 and hit play then you can close it
 
 ## 2. Mods
 
 FairyLights  
-https://www.curseforge.com/minecraft/mc-mods/fairy-lights/download/4111751/file  
+https://www.curseforge.com/minecraft/mc-mods/fairy-lights/download/4111755/file
 Furniture  
 https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/download/3872133/file
 
 ## 3. Optifine (Shaders)
 
 Download Link
-https://optifine.net/downloadx?f=OptiFine_1.19_HD_U_H9.jar&x=9c1619aa97d21a145f322ab51e38ba87
+https://optifine.net/downloadx?f=OptiFine_1.19.2_HD_U_I1.jar&x=793b1e930bb9cfbdc1fdfca51bd41abf  
 Instructions
 
 Click Windows Button and R at same time 
