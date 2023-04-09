@@ -1,6 +1,8 @@
 # How To Get Started
 
 - Download MC from MS Store
+Or free version 
+https://skmedix.pl/link/2da173c1b6f53f10b061bb7eff3f0100
 
 ## 1. Download Forge
 
@@ -35,7 +37,7 @@ Open Options, Video Settings, Shaders
 Choose BSL Shaders
 
 ## 4. Play
-- Open MC Launcher
+- Open MC Launcher or (SKLauncher and click offline mode) and click forge 
 - Select Forge 1.19.4 For the version
 
 Server Address: skante.aternos.me:53476  
